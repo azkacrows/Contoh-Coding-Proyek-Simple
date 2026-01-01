@@ -47,5 +47,3 @@ Folder `img` di dalam folder `assets` digunakan untuk menyimpan semua gambar yan
 
 **Date**: April 24, 2024
 
-**Original Repository**:\
-https://github.com/azkacrows/contoh-coding-proyek-simple
